@@ -1,0 +1,18 @@
+Comment,Designator,Manufacturer 1,Manufacturer Part Number 1,Quantity,Supplier 1,Supplier Part Number 1
+,,,,,,
+0.1µF,"C1, C3, C5, C6","Samsung Electro-Mechanics America, Inc",CL10B104KB8SFNC,4,Digi-Key,1276-1936-1-ND
+2.2µF,"C2, C4, C7",TDK Corporation,C2012X7R1V225M125AE,3,Digi-Key,445-6799-1-ND
+DUAL_LED,D1,Kingbright Company LLC,APBL3025SURKCGK-F01,1,Digi-Key,754-1648-1-ND
+DIODE_ARRAY_BAS40BRW,D2,Diodes Inc,BAS40BRW-7-F,1,Digi-Key,BAS40BRW-FDIDKR-ND
+18.9V,D3,Bourns Inc.,SMAJ17CA,1,Digi-Key,SMAJ17CABDKR-ND
+5.1V,D4,Micro Commercial Co,AZ23C5V1-TP,1,Digi-Key,AZ23C5V1-TPMSDKR-ND
+HEADER_8,J1,Molex Inc,39291088,1,Digi-Key,WM3903-ND
+N-FET,Q1,ON Semiconductor,NTD5865NLT4G,1,Digi-Key,NTD5865NLT4GOSDKR-ND
+300,"R1, R3, R4, R6, R9",Rohm Semiconductor,ESR03EZPJ301,5,Digi-Key,RHM300DCT-ND
+1k,"R2, R8",Rohm Semiconductor,ESR03EZPJ102,2,Digi-Key,RHM1.0KDCT-ND
+11k,"R5, R10",Rohm Semiconductor,ESR03EZPJ113,2,Digi-Key,RHM11KDCT-ND
+4.7k,"R7, R11",Rohm Semiconductor,ESR03EZPJ472,2,Digi-Key,RHM4.7KDCT-ND
+PIC12F683,U1,Microchip Technology,PIC12F683-I/SN,1,Digi-Key,PIC12F683-I/SN-ND
+LDO_NO_ENABLE,U2,Diodes Inc,ZSR500GTA,1,Digi-Key,ZSR500GCT-ND
+OPTOISOLATOR_DARLINGTON,U3,Lite-On Inc,LTV-355T,1,Digi-Key,160-1335-1-ND
+SCHMITT_TRIGGER,U4,Toshiba Semiconductor and Storage,"TC4S584F(T5L,F,T)",1,Digi-Key,TC4S584F(T5LFT)DKR-ND

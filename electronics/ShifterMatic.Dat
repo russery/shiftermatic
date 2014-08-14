@@ -1,0 +1,17 @@
+Field=Comment~String~Comment~100|Field=Designator~String~Designator~100|Field=Manufacturer 1~String~Manufacturer 1~100|Field=Manufacturer Part Number 1~String~Manufacturer Part Number 1~100|Field=Quantity~Integer~Quantity~100|Field=Supplier 1~String~Supplier 1~100|Field=Supplier Part Number 1~String~Supplier Part Number 1~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~ShifterMatic.PrjPCB|ReportField=ProjectFullPath~C:\RobertPersonal\Shiftermatic\Electronics\ShifterMatic.PrjPCB|ReportField=Title~Bill of Materials For Project [ShifterMatic.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~28|ReportField=ReportTime~6:51:49 PM|ReportField=ReportDate~12/21/2013|ReportField=ReportDateTime~12/21/2013 6:51:49 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/21/2013|ReportField=CurrentTime~6:48:54 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\RobertPersonal\Shiftermatic\Electronics\SCHEMATICS\ShifterMatic.SchDoc|ReportField=DocumentName~ShifterMatic.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/14/2013|ReportField=Organization~|ReportField=ProjectName~ShifterMatic.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~ShifterMatic.PrjPCB|ReportField=DataSourceFullPath~C:\RobertPersonal\Shiftermatic\Electronics\ShifterMatic.PrjPCB
+0.1µF|C1, C3, C5, C6|Samsung Electro-Mechanics America, Inc|CL10B104KB8SFNC|4|Digi-Key|1276-1936-1-ND
+2.2µF|C2, C4, C7|TDK Corporation|C2012X7R1V225M125AE|3|Digi-Key|445-6799-1-ND
+DUAL_LED|D1|Kingbright Company LLC|APBL3025SURKCGK-F01|1|Digi-Key|754-1648-1-ND
+DIODE_ARRAY_BAS40BRW|D2|Diodes Inc|BAS40BRW-7-F|1|Digi-Key|BAS40BRW-FDIDKR-ND
+18.9V|D3|Bourns Inc.|SMAJ17CA|1|Digi-Key|SMAJ17CABDKR-ND
+5.1V|D4|Micro Commercial Co|AZ23C5V1-TP|1|Digi-Key|AZ23C5V1-TPMSDKR-ND
+HEADER_8|J1|Molex Inc|0039291088|1|Digi-Key|WM3903-ND
+N-FET|Q1|ON Semiconductor|NTD5865NLT4G|1|Digi-Key|NTD5865NLT4GOSDKR-ND
+300|R1, R3, R4, R6, R9|Rohm Semiconductor|ESR03EZPJ301|5|Digi-Key|RHM300DCT-ND
+1k|R2, R8|Rohm Semiconductor|ESR03EZPJ102|2|Digi-Key|RHM1.0KDCT-ND
+11k|R5, R10|Rohm Semiconductor|ESR03EZPJ113|2|Digi-Key|RHM11KDCT-ND
+4.7k|R7, R11|Rohm Semiconductor|ESR03EZPJ472|2|Digi-Key|RHM4.7KDCT-ND
+PIC12F683|U1|Microchip Technology|PIC12F683-I/SN|1|Digi-Key|PIC12F683-I/SN-ND
+LDO_NO_ENABLE|U2|Diodes Inc|ZSR500GTA|1|Digi-Key|ZSR500GCT-ND
+OPTOISOLATOR_DARLINGTON|U3|Lite-On Inc|LTV-355T|1|Digi-Key|160-1335-1-ND
+SCHMITT_TRIGGER|U4|Toshiba Semiconductor and Storage|TC4S584F(T5L,F,T)|1|Digi-Key|TC4S584F(T5LFT)DKR-ND

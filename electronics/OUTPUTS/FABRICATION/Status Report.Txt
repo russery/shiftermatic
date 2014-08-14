@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [ShifterMatic_2Layer.PcbDoc]
+   Generated File[ShifterMatic_2Layer.GTL]
+   Generated File[ShifterMatic_2Layer.GBL]
+   Generated File[ShifterMatic_2Layer.GTO]
+   Generated File[ShifterMatic_2Layer.GTS]
+   Generated File[ShifterMatic_2Layer.GBS]
+   Generated File[ShifterMatic_2Layer.GBO]
+   Generated File[ShifterMatic_2Layer.GKO]
+   Generated File[ShifterMatic_2Layer.RUL]
+   Generated File[ShifterMatic_2Layer.EXTREP]
+   Generated File[ShifterMatic_2Layer.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 7:17:57 PM On 12/8/2013
